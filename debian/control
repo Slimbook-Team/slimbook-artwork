@@ -1,0 +1,14 @@
+Source: slimbook-artwork
+Section: utils
+Priority: optional
+Maintainer: Slimbook <dev@slimbook.es>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.4
+Homepage: https://slimbook.es
+
+Package: slimbook-gnome-background
+Architecture: all
+Description: Slimbook 24 (provisional) wallpaper
+ Slimbook wallpaper for gnome
+
+
