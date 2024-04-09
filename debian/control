@@ -6,6 +6,12 @@ Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.4
 Homepage: https://slimbook.es
 
+Package: slimbook-gnome-settings
+Architecture: all
+Depends: slimbook-gnome-background
+Description: Slimbook 24 (provisional) gnome settings
+ Slimbook settings for gnome
+ 
 Package: slimbook-gnome-background
 Architecture: all
 Description: Slimbook 24 (provisional) wallpaper
