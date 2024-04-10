@@ -1,2 +1,3 @@
 [org.gnome.desktop.background:GNOME]
 picture-uri='file:///usr/share/backgrounds/slimbook-os.png'
+picture-uri-dark='file:///usr/share/backgrounds/slimbook-os-dark.png'
