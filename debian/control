@@ -8,7 +8,7 @@ Homepage: https://slimbook.es
 
 Package: slimbook-gnome-settings
 Architecture: all
-Depends: slimbook-gnome-background gnome-shell-extension-appindicator
+Depends: slimbook-gnome-background, gnome-shell-extension-appindicator
 Description: Slimbook 24 (provisional) gnome settings
  Slimbook settings for gnome
  
