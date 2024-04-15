@@ -1,0 +1,3 @@
+[submodule "dash-to-panel"]
+	path = dash-to-panel
+	url = https://github.com/home-sweet-gnome/dash-to-panel.git
