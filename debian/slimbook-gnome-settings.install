@@ -1,1 +1,2 @@
 *.gschema.override /usr/share/glib-2.0/schemas/
+dash-to-panel/* /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/

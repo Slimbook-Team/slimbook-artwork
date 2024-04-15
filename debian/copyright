@@ -6,4 +6,9 @@ Source: <https://slimbook.es>
 Files: *
 Copyright: 2024 Slimbook <dev@slimbook.es>
 License: GPL-3+
+
+Files: dash-to-panel/*
+Copyright: 2024 jderose9, charlesg99
+License: GPL-3+
+
  
