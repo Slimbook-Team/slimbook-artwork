@@ -2,7 +2,7 @@ Source: slimbook-artwork
 Section: utils
 Priority: optional
 Maintainer: Slimbook <dev@slimbook.es>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 10), libglib2.0-bin
 Standards-Version: 4.1.4
 Homepage: https://slimbook.es
 

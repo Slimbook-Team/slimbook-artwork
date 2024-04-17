@@ -1,7 +1,12 @@
 #!/usr/bin/make -f
 
 PKGDIR=debian/tmp
+export DH_VERBOSE=1
 
 %:
 	dh $@
+
+override_dh_auto_build:
+	$(MAKE) -C dash-to-panel
+	$(MAKE) -C dash-to-panel install DESTDIR=build
 
