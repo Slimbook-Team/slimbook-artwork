@@ -3,3 +3,23 @@
 set -e
 
 glib-compile-schemas /usr/share/glib-2.0/schemas/
+
+case "$1" in
+    configure)
+
+    update-alternatives \
+        --install /usr/share/gnome-shell/gdm-theme.gresource gdm-theme.gresource \
+        /usr/share/gnome-shell/gnome-shell-theme.gresource 600
+
+    ;;
+
+    abort-upgrade|abort-deconfigure|abort-remove)
+    ;;
+
+    *)
+    echo "$0 called with unknown argument \`$1'" 1>&2
+    exit 1
+    ;;
+esac
+
+exit 0
