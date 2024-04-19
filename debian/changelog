@@ -1,3 +1,9 @@
+slimbook-artwork (24.0.0.1) noble; urgency=medium
+
+  * Test release
+
+ -- Slimbook <dev@slimbook.es>  Sat, 20 Apr 2024 01:01:41 +0200
+
 slimbook-artwork (24.0.0.0) noble; urgency=medium
 
   * Initial release.
