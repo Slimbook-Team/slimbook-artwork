@@ -1,3 +1,11 @@
+slimbook-artwork (24.0.1.0) noble; urgency=medium
+
+  * Added more extensions
+  * Using a default qt style
+  * Trying to install dash to panel schema as global
+
+ -- Slimbook <dev@slimbook.es>  Mon, 29 Apr 2024 18:07:38 +0200
+
 slimbook-artwork (24.0.0.1) noble; urgency=medium
 
   * Test release
