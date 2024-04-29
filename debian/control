@@ -8,7 +8,7 @@ Homepage: https://slimbook.es
 
 Package: slimbook-gnome-settings
 Architecture: all
-Depends: simbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, adwaita-qt, adwaita-qt6
+Depends:slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, adwaita-qt, adwaita-qt6
 Description: Slimbook 24 (provisional) gnome settings
  Slimbook settings for gnome
  
