@@ -1,3 +1,9 @@
+slimbook-artwork (24.0.2.0) noble; urgency=medium
+
+  * This may hide overview at startup
+
+ -- Slimbook <dev@slimbook.es>  Mon, 29 Apr 2024 23:52:45 +0200
+
 slimbook-artwork (24.0.1.2) noble; urgency=medium
 
   * Added more extensions
