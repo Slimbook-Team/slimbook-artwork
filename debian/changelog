@@ -1,3 +1,9 @@
+slimbook-artwork (24.1.0) noble; urgency=medium
+
+  * Added Lock Keys extension
+
+ -- Slimbook <dev@slimbook.es>  Tue, 30 Apr 2024 19:42:41 +0200
+
 slimbook-artwork (24.0.2.1) noble; urgency=medium
 
   * This may hide overview at startup
