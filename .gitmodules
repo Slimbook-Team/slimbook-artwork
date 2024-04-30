@@ -1,3 +1,6 @@
 [submodule "dash-to-panel"]
 	path = dash-to-panel
 	url = https://github.com/home-sweet-gnome/dash-to-panel.git
+[submodule "gnome-shell-extension-lockkeys"]
+	path = gnome-shell-extension-lockkeys
+	url = https://github.com/kazysmaster/gnome-shell-extension-lockkeys.git
