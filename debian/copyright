@@ -11,4 +11,7 @@ Files: dash-to-panel/*
 Copyright: 2024 jderose9, charlesg99
 License: GPL-3+
 
- 
+Files: gnome-shell-extension-lockkeys/*
+Copyright: 2024 Kazimieras Vaina, Pierre Ossman, erguille, jonnius, Philipp Wolfer, Mariusz Lisowski, Cristian Beroiza, warmsun0220, Rasmus Kaj, Pablo Martin-Gomez Bouska, Raphaël Rochet, Luiz Nickel, Jesse, Dušan Kazik
+License: GPL-2
+

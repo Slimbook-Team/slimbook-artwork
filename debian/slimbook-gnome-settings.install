@@ -1,6 +1,6 @@
 *.gschema.override /usr/share/glib-2.0/schemas/
 dash-to-panel/build/usr/* /etc/skel/.local/
-gnome-shell-extension-lockkeys/lockkeys@vaina.lt /etc/skel/.local/
+gnome-shell-extension-lockkeys/lockkeys@vaina.lt /etc/skel/.local/share/gnome-shell/extensions/
 99-slimbook.conf /usr/lib/environment.d/
 dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 gnome-shell-extension-lockkeys/lockkeys@vaina.lt/schemas/*.xml /usr/share/glib-2.0/schemas/
