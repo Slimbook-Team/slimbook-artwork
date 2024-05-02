@@ -13,8 +13,25 @@ hide-overview-on-startup=true
 [org.gnome.desktop.interface]
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
-monospace-font-name = "Hack 11"
 
 [org.gnome.login-screen]
 logo='/usr/share/pixmaps/slimbook-logo.png'
 
+[org.gnome.Terminal.Legacy.Profile]
+use-system-font = false
+use-theme-background = false
+use-theme-colors = false
+use-theme-transparency = false
+use-transparent-background = false
+background-color = '#2E3440'
+bold-color = '#D8DEE9'
+bold-color-same-as-fg = true
+cursor-background-color = 'rgb(216,222,233)'
+cursor-colors-set = true
+cursor-foreground-color = 'rgb(59,66,82)'
+font = 'UbuntuMono Nerd Font 11'
+foreground-color = '#D8DEE9'
+highlight-background-color = 'rgb(136,192,208)'
+highlight-colors-set = true
+highlight-foreground-color = 'rgb(46,52,64)'
+palette = ['#3B4252', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#88C0D0', '#E5E9F0', '#4C566A', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#8FBCBB', '#ECEFF4']
