@@ -13,6 +13,7 @@ hide-overview-on-startup=true
 [org.gnome.desktop.interface]
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
+monospace-font-name = "Hack 11"
 
 [org.gnome.login-screen]
 logo='/usr/share/pixmaps/slimbook-logo.png'
