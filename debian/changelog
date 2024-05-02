@@ -1,3 +1,9 @@
+slimbook-artwork (24.3.0) noble; urgency=medium
+
+  * Using hack as monospaced font
+
+ -- Slimbook <dev@slimbook.es>  Thu, 02 May 2024 19:28:19 +0200
+
 slimbook-artwork (24.2.0) noble; urgency=medium
 
   * Fixed lockkey installation
