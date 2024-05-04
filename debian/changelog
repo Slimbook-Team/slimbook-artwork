@@ -1,3 +1,9 @@
+slimbook-artwork (24.4.1) noble; urgency=medium
+
+  * Fixed bad font name
+
+ -- Slimbook <dev@slimbook.es>  Thu, 02 May 2024 23:24:05 +0200
+
 slimbook-artwork (24.4.0) noble; urgency=medium
 
   * Setting a gnome-terminal color scheme
