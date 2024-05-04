@@ -4,3 +4,4 @@ gnome-shell-extension-lockkeys/lockkeys@vaina.lt /etc/skel/.local/share/gnome-sh
 99-slimbook.conf /usr/lib/environment.d/
 dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 gnome-shell-extension-lockkeys/lockkeys@vaina.lt/schemas/*.xml /usr/share/glib-2.0/schemas/
+slimbook-distributor-logo.png /usr/share/pixmaps/

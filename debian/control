@@ -8,13 +8,13 @@ Homepage: https://slimbook.es
 
 Package: slimbook-gnome-settings
 Architecture: all
-Depends:slimbook-base-files, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts
-Description: Slimbook OS 24 (provisional) gnome settings
+Depends:slimbook-base-files, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-gsconnect, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts
+Description: Slimbook OS 24 gnome settings
  Slimbook settings for gnome
  
 Package: slimbook-gnome-background
 Architecture: all
-Description: Slimbook OS 24 (provisional) wallpaper
+Description: Slimbook OS 24 wallpaper
  Slimbook wallpaper for gnome
 
 Package: slimbook-ttf-fonts

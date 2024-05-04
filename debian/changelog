@@ -1,3 +1,13 @@
+slimbook-artwork (24.5.0) noble; urgency=medium
+
+  * definitive backgrounds
+  * added logo to panel
+  * increased terminal font
+  * added gsconnect extension
+  * added store to favorites
+
+ -- Slimbook <dev@slimbook.es>  Sat, 04 May 2024 23:35:16 +0200
+
 slimbook-artwork (24.4.1) noble; urgency=medium
 
   * Fixed bad font name
