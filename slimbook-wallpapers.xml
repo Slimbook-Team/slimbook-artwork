@@ -4,8 +4,8 @@
 
  <wallpaper>
      <name>Slimbook BOOU</name>
-     <filename>/usr/share/backgrounds/slimbook-boou-light.png</filename>
-     <filename-dark>/usr/share/backgrounds/slimbook-boou-dark.png</filename-dark>
+     <filename>/usr/share/backgrounds/slimbook-boou-light.jpg</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-boou-dark.jpg</filename-dark>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -14,8 +14,8 @@
 
  <wallpaper>
      <name>Slimbook Bubbles</name>
-     <filename>/usr/share/backgrounds/slimbook-bubbles-light.png</filename>
-     <filename-dark>/usr/share/backgrounds/slimbook-bubbles-dark.png</filename-dark>
+     <filename>/usr/share/backgrounds/slimbook-bubbles-light.jpg</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-bubbles-dark.jpg</filename-dark>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -34,8 +34,8 @@
 
  <wallpaper>
      <name>Slimbook Feather</name>
-     <filename>/usr/share/backgrounds/slimbook-feather-light.png</filename>
-     <filename-dark>/usr/share/backgrounds/slimbook-feather-dark.png</filename-dark>
+     <filename>/usr/share/backgrounds/slimbook-feather-light.jpg</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-feather-dark.jpg</filename-dark>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -44,8 +44,8 @@
 
  <wallpaper>
      <name>Slimbook Starry</name>
-     <filename>/usr/share/backgrounds/slimbook-starry-light.png</filename>
-     <filename-dark>/usr/share/backgrounds/slimbook-starry-dark.png</filename-dark>
+     <filename>/usr/share/backgrounds/slimbook-starry-light.jpg</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-starry-dark.jpg</filename-dark>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>

@@ -1,6 +1,6 @@
 [org.gnome.desktop.background:GNOME]
-picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.png'
-picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.png'
+picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
 
 [org.gnome.shell:GNOME]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
@@ -9,7 +9,7 @@ favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','fire
 [org.gnome.shell.extensions.dash-to-panel]
 group-apps = false
 hide-overview-on-startup = true
-show-apps-icon-file = '/usr/share/pixmaps/slimbook-distributor-logo.png'
+show-apps-icon-file = "/usr/share/pixmaps/slimbook-distributor-logo.png"
 
 [org.gnome.desktop.interface]
 gtk-theme = "Yaru-blue"
