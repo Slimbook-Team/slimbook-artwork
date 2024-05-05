@@ -1,3 +1,10 @@
+slimbook-artwork (24.5.1) noble; urgency=medium
+
+  * Fixed background filename extensions
+  * Updated dash to panel
+
+ -- Slimbook <dev@slimbook.es>  Sun, 05 May 2024 20:51:42 +0200
+
 slimbook-artwork (24.5.0) noble; urgency=medium
 
   * definitive backgrounds
