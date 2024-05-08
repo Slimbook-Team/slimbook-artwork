@@ -1,16 +1,4 @@
-[org.gnome.desktop.background:GNOME]
-picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
-
-[org.gnome.shell:GNOME]
-enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
-favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
-
-[org.gnome.shell.extensions.dash-to-panel]
-group-apps = false
-hide-overview-on-startup = true
-show-apps-icon-file = "/usr/share/pixmaps/slimbook-distributor-logo.png"
-
+# General settings
 [org.gnome.desktop.interface]
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
@@ -18,9 +6,26 @@ icon-theme = "Yaru-blue"
 [org.gnome.login-screen]
 logo='/usr/share/pixmaps/slimbook-logo.png'
 
-[org.gnome.Terminal.Legacy.Profile]
+# Desktop settings
+[org.gnome.desktop.background:ubuntu]
+picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
+
+[org.gnome.shell:ubuntu]
+enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
+favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
+
+[org.gnome.desktop.interface:ubuntu]
+gtk-theme = "Yaru-blue"
+icon-theme = "Yaru-blue"
+
+[org.gnome.shell.extensions.dash-to-panel]
+group-apps = false
+hide-overview-on-startup = true
+show-apps-icon-file = "/usr/share/pixmaps/slimbook-distributor-logo.png"
+
+[org.gnome.Terminal.Legacy.Profile:ubuntu]
 use-system-font = false
-use-theme-background = false
 use-theme-colors = false
 use-theme-transparency = false
 use-transparent-background = false
