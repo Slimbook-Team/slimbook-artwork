@@ -11,6 +11,9 @@ logo='/usr/share/pixmaps/slimbook-logo.png'
 picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
 picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
 
+[org.gnome.desktop.screensaver:ubuntu]
+picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
+
 [org.gnome.shell:ubuntu]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
 favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
@@ -19,10 +22,13 @@ favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','fire
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
 
-[org.gnome.shell.extensions.dash-to-panel]
+[org.gnome.shell.extensions.dash-to-panel:ubuntu]
 group-apps = false
 hide-overview-on-startup = true
-show-apps-icon-file = "/usr/share/pixmaps/slimbook-distributor-logo.png"
+show-apps-icon-file = '/usr/share/pixmaps/slimbook-distributor-logo.png'
+
+[org.gnome.Terminal.Legacy.Settings:ubuntu]
+theme-variant = 'system'
 
 [org.gnome.Terminal.Legacy.Profile:ubuntu]
 use-system-font = false
