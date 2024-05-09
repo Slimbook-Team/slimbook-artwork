@@ -1,3 +1,11 @@
+slimbook-artwork (24.6.0) noble; urgency=medium
+
+  * Updated backgrounds
+  * Added a settings fixer autostart
+  * Diverted vim desktop
+
+ -- Slimbook <dev@slimbook.es>  Thu, 09 May 2024 19:58:54 +0200
+
 slimbook-artwork (24.5.4) noble; urgency=medium
 
   * ubuntu dock is disabled, explicitely

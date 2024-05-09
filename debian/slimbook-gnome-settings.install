@@ -5,3 +5,5 @@ gnome-shell-extension-lockkeys/lockkeys@vaina.lt /etc/skel/.local/share/gnome-sh
 dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 gnome-shell-extension-lockkeys/lockkeys@vaina.lt/schemas/*.xml /usr/share/glib-2.0/schemas/
 slimbook-distributor-logo.png /usr/share/pixmaps/
+slimbook-gnome-settings-fixes   /usr/libexec/
+slimbook-gnome-settings-fixes.desktop   /etc/xdg/autostart/
