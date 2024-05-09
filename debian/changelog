@@ -1,3 +1,9 @@
+slimbook-artwork (24.5.4) noble; urgency=medium
+
+  * ubuntu dock is disabled, explicitely
+
+ -- Slimbook <dev@slimbook.es>  Thu, 09 May 2024 09:03:22 +0200
+
 slimbook-artwork (24.5.3) noble; urgency=medium
 
   * Some override settings fixes
