@@ -16,6 +16,7 @@ picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
 
 [org.gnome.shell:ubuntu]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
+disabled-extensions=['ubuntu-dock@ubuntu.com']
 favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
 
 [org.gnome.desktop.interface:ubuntu]
