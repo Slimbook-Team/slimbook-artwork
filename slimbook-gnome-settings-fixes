@@ -7,3 +7,15 @@ dashicon=`gsettings get org.gnome.shell.extensions.dash-to-panel show-apps-icon-
 if [ "$dashicon" = "$dashicondefault" ]; then
 	gsettings set org.gnome.shell.extensions.dash-to-panel show-apps-icon-file $dashicondefault
 fi
+
+value=`gsettings get org.gnome.shell.extensions.dash-to-panel group-apps`
+gsettings set org.gnome.shell.extensions.dash-to-panel group-apps $value
+
+value=`gsettings get org.gnome.shell.extensions.dash-to-panel animate-appicon-hover`
+gsettings set org.gnome.shell.extensions.dash-to-panel animate-appicon-hover $value
+
+value=`gsettings get org.gnome.shell.extensions.dash-to-panel group-apps-underline-unfocused`
+gsettings set org.gnome.shell.extensions.dash-to-panel group-apps-underline-unfocused $value
+
+value=`gsettings get org.gnome.shell.extensions.dash-to-panel group-apps-use-launchers`
+gsettings set org.gnome.shell.extensions.dash-to-panel group-apps-use-launchers $value

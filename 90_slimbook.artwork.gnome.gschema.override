@@ -14,8 +14,8 @@ picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
 [org.gnome.desktop.screensaver:ubuntu]
 picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
 
-[org.gnome.desktop.app-folders:ubuntu]
-folder-children = ['Utilities','Office']
+#[org.gnome.desktop.app-folders:ubuntu]
+#folder-children = ['Utilities','Office']
 
 [org.gnome.shell:ubuntu]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
