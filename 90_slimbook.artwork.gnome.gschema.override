@@ -14,6 +14,9 @@ picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
 [org.gnome.desktop.screensaver:ubuntu]
 picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
 
+[org.gnome.desktop.app-folders:ubuntu]
+folder-children = ['Utilities','Office']
+
 [org.gnome.shell:ubuntu]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io']
 disabled-extensions=['ubuntu-dock@ubuntu.com']
@@ -33,6 +36,9 @@ accel-profile = 'flat'
 group-apps = false
 hide-overview-on-startup = true
 show-apps-icon-file = '/usr/share/pixmaps/slimbook-distributor-logo.png'
+animate-appicon-hover = true
+group-apps-underline-unfocused = false
+group-apps-use-launchers = true
 
 [org.gnome.Terminal.Legacy.Settings:ubuntu]
 theme-variant = 'system'
