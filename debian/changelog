@@ -1,3 +1,10 @@
+slimbook-artwork (24.8.1) noble; urgency=medium
+
+  * Added a ulauncher default
+  * forced dash-to-panel settings
+
+ -- Slimbook <dev@slimbook.es>  Wed, 15 May 2024 16:44:34 +0200
+
 slimbook-artwork (24.8.0) noble; urgency=medium
 
   * Added a skel package
