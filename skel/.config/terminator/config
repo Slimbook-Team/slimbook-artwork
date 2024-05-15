@@ -1,0 +1,22 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#2e3440"
+    cursor_fg_color = "#d8dee9"
+    cursor_bg_color = "#2e3440"
+    font = UbuntuMono Nerd Font Mono 12
+    palette = "#3B4252:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#88C0D0:#E5E9F0:#4C566A:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#8FBCBB:#ECEFF4"
+    use_system_font = False
+    title_transmit_bg_color = "#bf616a"
+    title_receive_bg_color = "#81a1c1"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
