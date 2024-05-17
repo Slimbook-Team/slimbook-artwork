@@ -6,6 +6,8 @@ ORIGINAL_FILE="/usr/share/applications/vim.desktop"
 DIVERT_FILE="/usr/share/applications/vim.desktop.divert"
 
 glib-compile-schemas /usr/share/glib-2.0/schemas/
+dconf update
+gnome-menus-blacklist
 
 case "$1" in
     configure)
@@ -14,8 +16,8 @@ case "$1" in
         --install /usr/share/gnome-shell/gdm-theme.gresource gdm-theme.gresource \
         /usr/share/gnome-shell/gnome-shell-theme.gresource 600
 
-        dpkg-divert --package ${PACKAGE_NAME} --no-rename --add ${ORIGINAL_FILE}
-        mv ${ORIGINAL_FILE} ${DIVERT_FILE} || true
+      #  dpkg-divert --package ${PACKAGE_NAME} --no-rename --add ${ORIGINAL_FILE}
+      #  mv ${ORIGINAL_FILE} ${DIVERT_FILE} || true
 
     ;;
 

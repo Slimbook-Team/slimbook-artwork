@@ -1,3 +1,11 @@
+slimbook-artwork (24.9.0) noble; urgency=medium
+
+  * Added more extensions
+  * Added some dconf defaults
+  * No longer diverting vim desktop
+
+ -- Slimbook <dev@slimbook.es>  Fri, 17 May 2024 11:10:45 +0200
+
 slimbook-artwork (24.8.1) noble; urgency=medium
 
   * Added a ulauncher default
