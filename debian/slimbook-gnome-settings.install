@@ -6,8 +6,8 @@ dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 gnome-shell-extension-lockkeys/lockkeys@vaina.lt/schemas/*.xml /usr/share/glib-2.0/schemas/
 gnome-shell-extension-caffeine/caffeine@patapon.info /etc/skel/.local/share/gnome-shell/extensions/
 gnome-shell-extension-caffeine/caffeine@patapon.info/schemas/*.xml /usr/share/glib-2.0/schemas/
-quick-settings-auidio-panel/* /etc/skel/.local/share/gnome-shell/extensions/quick-settings-audio-panel@rayzeq.github.io
-quick-settings-auidio-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
+quick-settings-audio-panel/* /etc/skel/.local/share/gnome-shell/extensions/quick-settings-audio-panel@rayzeq.github.io
+quick-settings-audio-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 GrandTheftFocus/grand-theft-focus@zalckos.github.com /etc/skel/.local/share/gnome-shell/extensions/
 status-area-horizontal-spacing-gnome-shell-extension/status-area-horizontal-spacing@mathematical.coffee.gmail.com /etc/skel/.local/share/gnome-shell/extensions/
 status-area-horizontal-spacing-gnome-shell-extension/status-area-horizontal-spacing@mathematical.coffee.gmail.com/schemas/*.xml /usr/share/glib-2.0/schemas/
