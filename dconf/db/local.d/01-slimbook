@@ -3,14 +3,25 @@ binding = '<Control>space'
 command = 'ulauncher-toggle'
 name = 'ulauncher'
 
-[org/gnome/desktop/app-folders/folders/accessories]
+[org/gnome/desktop/app-folders/folders/Utility]
 categories=['Utility']
 name = 'Accessories'
 translate = true
 
-[org/gnome/desktop/app-folders/folders/office]
+[org/gnome/desktop/app-folders/folders/Office]
 categories=['Office']
 name = 'Office'
 translate = true
+
+[org/gnome/shell/extensions/dash-to-panel]
+group-apps = false
+hide-overview-on-startup = true
+show-apps-icon-file = '/usr/share/pixmaps/slimbook-distributor-logo.png'
+animate-appicon-hover = true
+group-apps-underline-unfocused = false
+group-apps-use-launchers = true
+
+[org/gnome/shell/extensions/lockkeys]
+style = 'show-hide'
 
 
