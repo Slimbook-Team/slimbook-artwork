@@ -1,0 +1,16 @@
+[org/gnome/settings-daemon/plugins/media-keys/custom-bindings/custom0]
+binding = '<Control>space'
+command = 'ulauncher-toggle'
+name = 'ulauncher'
+
+[org/gnome/desktop/app-folders/folders/accessories]
+categories=['Utility']
+name = 'Accessories'
+translate = true
+
+[org/gnome/desktop/app-folders/folders/office]
+categories=['Office']
+name = 'Office'
+translate = true
+
+

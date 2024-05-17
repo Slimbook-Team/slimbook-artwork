@@ -16,3 +16,6 @@
 [submodule "blur-my-shell"]
 	path = blur-my-shell
 	url = https://github.com/aunetx/blur-my-shell.git
+[submodule "status-area-horizontal-spacing-gnome-shell-extension"]
+	path = status-area-horizontal-spacing-gnome-shell-extension
+	url = https://gitlab.com/p91paul/status-area-horizontal-spacing-gnome-shell-extension.git
