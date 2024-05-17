@@ -1,3 +1,9 @@
+slimbook-artwork (24.9.2) noble; urgency=medium
+
+  * Some extension fixes
+
+ -- Slimbook <dev@slimbook.es>  Fri, 17 May 2024 11:44:37 +0200
+
 slimbook-artwork (24.9.1) noble; urgency=medium
 
   * Added more extensions
