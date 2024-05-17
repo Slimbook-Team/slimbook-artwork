@@ -4,3 +4,18 @@
 [submodule "gnome-shell-extension-lockkeys"]
 	path = gnome-shell-extension-lockkeys
 	url = https://github.com/kazysmaster/gnome-shell-extension-lockkeys.git
+[submodule "gnome-shell-extension-caffeine"]
+	path = gnome-shell-extension-caffeine
+	url = https://github.com/eonpatapon/gnome-shell-extension-caffeine.git
+[submodule "quick-settings-audio-panel"]
+	path = quick-settings-audio-panel
+	url = https://github.com/Rayzeq/quick-settings-audio-panel.git
+[submodule "GrandTheftFocus"]
+	path = GrandTheftFocus
+	url = https://github.com/zalckos/GrandTheftFocus.git
+[submodule "blur-my-shell"]
+	path = blur-my-shell
+	url = https://github.com/aunetx/blur-my-shell.git
+[submodule "status-area-horizontal-spacing-gnome-shell-extension"]
+	path = status-area-horizontal-spacing-gnome-shell-extension
+	url = https://gitlab.com/p91paul/status-area-horizontal-spacing-gnome-shell-extension.git
