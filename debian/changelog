@@ -1,3 +1,9 @@
+slimbook-artwork (24.9.6) noble; urgency=medium
+
+  * Replaced clipboard extension
+
+ -- Slimbook <dev@slimbook.es>  Mon, 20 May 2024 23:20:46 +0200
+
 slimbook-artwork (24.9.5) noble; urgency=medium
 
   * Aded clipboard extension
