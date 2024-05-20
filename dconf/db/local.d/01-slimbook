@@ -24,4 +24,9 @@ group-apps-use-launchers = true
 [org/gnome/shell/extensions/lockkeys]
 style = 'show-hide'
 
+[org/gnome/shell/extensions/caffeine]
+toggle-state = true
+user-enabled = true
 
+[org/gnome/shell/extensions/status-area-horizontal-spacing]
+hpadding = 3
