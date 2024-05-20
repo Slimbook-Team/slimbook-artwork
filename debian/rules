@@ -10,5 +10,17 @@ override_dh_auto_build:
 	$(MAKE) -C dash-to-panel
 	$(MAKE) -C dash-to-panel install DESTDIR=build
 	$(MAKE) -C status-area-horizontal-spacing-gnome-shell-extension
+
+	$(MAKE) -C gnome-shell-extension-clipboard-indicator compile-locales
+	mkdir gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/*.js gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/*.css gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/*.json gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/*.rst gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/schemas gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+	cp -r gnome-shell-extension-clipboard-indicator/locale/*/LC_MESSAGES/*.mo  gnome-shell-extension-clipboard-indicator/clipboard-indicator@tudmotu.com
+
+
 	glib-compile-schemas gnome-shell-extension-caffeine/caffeine@patapon.info/schemas
 	glib-compile-schemas quick-settings-audio-panel/schemas
+
