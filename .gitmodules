@@ -19,6 +19,3 @@
 [submodule "status-area-horizontal-spacing-gnome-shell-extension"]
 	path = status-area-horizontal-spacing-gnome-shell-extension
 	url = https://gitlab.com/p91paul/status-area-horizontal-spacing-gnome-shell-extension.git
-[submodule "gnome-clipboard-indicator"]
-	path = gnome-clipboard-indicator
-	url = https://github.com/Dieg0Js/gnome-clipboard-indicator.git
