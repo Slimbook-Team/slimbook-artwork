@@ -15,6 +15,23 @@ Files: gnome-shell-extension-lockkeys/*
 Copyright: 2024 Kazimieras Vaina, Pierre Ossman, erguille, jonnius, Philipp Wolfer, Mariusz Lisowski, Cristian Beroiza, warmsun0220, Rasmus Kaj, Pablo Martin-Gomez Bouska, Raphaël Rochet, Luiz Nickel, Jesse, Dušan Kazik
 License: GPL-2
 
+Files: gnome-shell-extension-caffeine/*
+License: GPL-2
+
+Files: gnome-shell-extension-clipboard-indicator/*
+Copyright: 2014, Yotam Bar-On
+License: MIT
+
+Files: GrandTheftFocus/*
+License: GPL-3
+
+Files: quick-settings-audio-panel/*
+License: GPL-3
+
+Files: status-area-horizontal-spacing-gnome-shell-extension/*
+License: GPL-2
+
+
 Files: *.ttf
 Copyright: 2024 Canonical Ltd.
 License: Ubuntu Font License v1.0

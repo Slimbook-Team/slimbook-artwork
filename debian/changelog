@@ -1,3 +1,10 @@
+slimbook-artwork (24.9.10) noble; urgency=medium
+
+  * Replacing gnome terminal favorite with terminator
+  * Updated license file
+
+ -- Slimbook <dev@slimbook.es>  Wed, 22 May 2024 09:53:13 +0200
+
 slimbook-artwork (24.9.9) noble; urgency=medium
 
   * Replaced clipboard extension
