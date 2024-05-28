@@ -1,0 +1,51 @@
+#!/bin/bash
+
+source /usr/share/slimbook-console/trueline.sh
+
+model_str=`slimbookctl info | grep model | cut -d ":" -f 2`
+family=`echo $model_str | sed -e 's/0x\(.*\)../\1/'`
+
+case $family in
+
+    "1")
+        name="Slimbook Executive"
+    ;;
+
+    "2")
+        name="Slimbook ProX"
+    ;;
+
+    "4")
+        name="Slimbook Titan"
+    ;;
+
+    "8")
+        name="Slimbook Hero"
+    ;;
+
+    "10")
+        name="Slimbook Essential"
+    ;;
+
+    "20")
+        name="Slimbook Elemental"
+    ;;
+
+    "40")
+        name="Slimbook Excalibur"
+    ;;
+
+    "80")
+        name="Slimbook Hero-S"
+    ;;
+
+    *)
+    ;;
+
+esac
+
+echo -e "Welcome to \e[34mSlimbook OS 24\e[0m\n"
+
+if [ ! -z "$name" ]; then
+    echo -e "Powered by \e[34m${name}\e[0m\n"
+fi
