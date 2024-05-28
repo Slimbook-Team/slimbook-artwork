@@ -1,0 +1,2 @@
+trueline/*.sh /usr/share/slimbook-console/
+slimbook-console/* /usr/share/slimbook-console/

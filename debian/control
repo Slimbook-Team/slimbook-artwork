@@ -9,7 +9,7 @@ Rules-Requires-Root: no
 
 Package: slimbook-gnome-settings
 Architecture: all
-Depends:slimbook-base-files, slimbook-default-skel, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-gsconnect, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts, dconf-cli, libglib2.0-bin
+Depends:slimbook-base-files, slimbook-default-skel, slimbook-console, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-gsconnect, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts, dconf-cli, libglib2.0-bin
 Recommends: ulauncher
 Description: Slimbook OS 24 gnome settings
  Slimbook settings for gnome
@@ -28,3 +28,9 @@ Package: slimbook-default-skel
 Architecture: all
 Description: Slimbook OS 24 default skel
  Default skel files for Slimbook OS 24 users
+
+Package: slimbook-console
+Architecture: all
+Depends: slimbook-ttf-fonts
+Description: Slimbook OS 24 console settings
+ Custom bashrc extension for Slimbook OS
