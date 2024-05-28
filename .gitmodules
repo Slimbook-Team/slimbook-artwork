@@ -22,3 +22,6 @@
 [submodule "gnome-shell-extension-clipboard-indicator"]
 	path = gnome-shell-extension-clipboard-indicator
 	url = https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator.git
+[submodule "trueline"]
+	path = trueline
+	url = https://github.com/petobens/trueline.git
