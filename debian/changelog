@@ -1,3 +1,9 @@
+slimbook-artwork (24.10.0) noble; urgency=medium
+
+  * Added a slimbook console package
+
+ -- Slimbook <dev@slimbook.es>  Tue, 28 May 2024 22:46:34 +0200
+
 slimbook-artwork (24.9.10) noble; urgency=medium
 
   * Replacing gnome terminal favorite with terminator
