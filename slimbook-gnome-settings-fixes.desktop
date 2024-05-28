@@ -1,6 +1,5 @@
 [Desktop Entry]
 Type=Application
-#Exec=/usr/libexec/slimbook-gnome-settings-fixes
-Exec=/bin/true
+Exec=/usr/libexec/slimbook-gnome-settings-fixes
 Terminal=false
 StartupNotify=false
