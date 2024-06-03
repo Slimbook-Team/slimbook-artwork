@@ -1,3 +1,9 @@
+slimbook-artwork (24.10.1) noble; urgency=medium
+
+  * Updated welcome message
+
+ -- Slimbook <dev@slimbook.es>  Mon, 03 Jun 2024 10:14:44 +0200
+
 slimbook-artwork (24.10.0) noble; urgency=medium
 
   * Added a slimbook console package
