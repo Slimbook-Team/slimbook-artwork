@@ -1,3 +1,9 @@
+slimbook-artwork (24.11.0) noble; urgency=medium
+
+  * Set gnome-terminal as default terminal again
+
+ -- Slimbook <dev@slimbook.es>  Tue, 04 Jun 2024 22:42:39 +0200
+
 slimbook-artwork (24.10.1) noble; urgency=medium
 
   * Updated welcome message

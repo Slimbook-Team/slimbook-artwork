@@ -12,12 +12,13 @@ gnome-menus-blacklist
 case "$1" in
     configure)
 
-    update-alternatives \
+      update-alternatives \
         --install /usr/share/gnome-shell/gdm-theme.gresource gdm-theme.gresource \
         /usr/share/gnome-shell/gnome-shell-theme.gresource 600
 
-      #  dpkg-divert --package ${PACKAGE_NAME} --no-rename --add ${ORIGINAL_FILE}
-      #  mv ${ORIGINAL_FILE} ${DIVERT_FILE} || true
+      update-alternatives \
+      --install /usr/bin/x-terminal-emulator x-terminal-emulator \
+      /usr/bin/gnome-terminal.wrapper 100
 
     ;;
 
