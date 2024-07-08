@@ -34,3 +34,8 @@ Architecture: all
 Depends: slimbook-ttf-fonts
 Description: Slimbook OS 24 console settings
  Custom bashrc extension for Slimbook OS
+
+Package: slimbook-plasma-wallpapers
+Architecture: all
+Description: Slimbook OS 24 wallpaper
+ Slimbook wallpaper for plasma desktop

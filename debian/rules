@@ -16,3 +16,5 @@ override_dh_auto_build:
 	glib-compile-schemas gnome-shell-extension-caffeine/caffeine@patapon.info/schemas
 	glib-compile-schemas quick-settings-audio-panel/schemas
 
+	$(MAKE) -C kde/wallpapers
+
