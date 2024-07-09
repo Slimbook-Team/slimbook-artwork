@@ -6,26 +6,32 @@ COLOR_RED = \x1b[31;01m
 
 slimbook-%/contents/images/3840x2160.png:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-light.png -resize 3840x2160 $@
 
 slimbook-%/contents/images_dark/3840x2160.png:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-dark.png -resize 3840x2160 $@
 
 slimbook-%/contents/screenshot.png:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-light.png -resize 384x216 $@
 
 slimbook-%/contents/images/3840x2160.jpg:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-light.jpg -resize 3840x2160 $@
 
 slimbook-%/contents/images_dark/3840x2160.jpg:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-dark.jpg -resize 3840x2160 $@
 
 slimbook-%/contents/screenshot.jpg:
 	@echo -e '$(COLOR_RED)* creating $@ $(COLOR_NONE)'
+	mkdir -p $(dir $@)
 	convert ../../backgrounds/slimbook-$*-light.jpg -resize 384x216 $@
 
 task-%: slimbook-%/contents/images/3840x2160.jpg
