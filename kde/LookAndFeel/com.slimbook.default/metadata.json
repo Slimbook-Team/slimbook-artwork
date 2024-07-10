@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Slimbook"
+            }
+        ],
+        "Id": "com.slimbook.default",
+        "Name": "Slimbook",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "24.0",
+        "Website": "https://github.com/Slimbook-Team"
+    },
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}
