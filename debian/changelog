@@ -1,3 +1,9 @@
+slimbook-artwork (24.13.0) noble; urgency=medium
+
+  * Added plasma settings package
+
+ -- Slimbook <dev@slimbook.es>  Wed, 10 Jul 2024 10:03:06 +0200
+
 slimbook-artwork (24.12.3) noble; urgency=medium
 
   * Updated plasma wallpaper format
