@@ -1,0 +1,4 @@
+kde/konsole/* /usr/share/konsole/
+kde/LookAndFeel/* /usr/share/plasma/look-and-feel/
+kde/xdg /usr/share/slimbook-plasma-settings/
+kde/profile.d/* /etc/profile.d/

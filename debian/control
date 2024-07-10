@@ -39,3 +39,9 @@ Package: slimbook-plasma-wallpapers
 Architecture: all
 Description: Slimbook OS 24 wallpaper
  Slimbook wallpaper for plasma desktop
+
+Package: slimbook-plasma-settings
+Architecture: all
+Depends: slimbook-plasma-wallpapers, slimbook-ttf-fonts, slimbook-console, plasma-desktop, konsole
+Description: Slimbook OS 24 Plasma Settings
+ Default Plasma settings for Slimbook OS 24
