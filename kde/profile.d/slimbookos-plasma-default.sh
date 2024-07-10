@@ -1,1 +1,1 @@
-XDG_CONFIG_DIRS="/usr/share/slimbook-plasma-settings-xdg/":"$XDG_CONFIG_DIRS"
+export XDG_CONFIG_DIRS=/usr/share/slimbook-plasma-settings/xdg/:${XDG_CONFIG_DIRS:-/etc/xdg}
