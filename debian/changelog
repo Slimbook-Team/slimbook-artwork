@@ -1,3 +1,9 @@
+slimbook-artwork (24.14.0) noble; urgency=medium
+
+  * Added a firefox default package
+
+ -- Slimbook <dev@slimbook.es>  Wed, 07 Aug 2024 16:18:43 +0200
+
 slimbook-artwork (24.13.1) noble; urgency=medium
 
   * Just fixing settings

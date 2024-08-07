@@ -45,3 +45,9 @@ Architecture: all
 Depends: slimbook-plasma-wallpapers, slimbook-ttf-fonts, slimbook-console, plasma-desktop, konsole
 Description: Slimbook OS 24 Plasma Settings
  Default Plasma settings for Slimbook OS 24
+
+Package: slimbook-firefox-defaults
+Architecture: all
+Depends: firefox
+Description: Slimbook OS 24 Firefox settings
+ Default Firefox settings for Slimbook OS
