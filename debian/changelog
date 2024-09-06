@@ -1,3 +1,9 @@
+slimbook-artwork (24.15.0) noble; urgency=medium
+
+  * Updated default plasma look and feel with some slimbook branding
+
+ -- Slimbook <dev@slimbook.es>  Fri, 06 Sep 2024 16:54:19 +0200
+
 slimbook-artwork (24.14.0) noble; urgency=medium
 
   * Added a firefox default package

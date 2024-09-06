@@ -7,9 +7,14 @@ Standards-Version: 4.6.0
 Homepage: https://slimbook.es
 Rules-Requires-Root: no
 
+Package: slimbook-artwork-common
+Architecture: all
+Description: Slimbook OS common artwork stuff
+ Common resources for slimbook os artwork packages
+
 Package: slimbook-gnome-settings
 Architecture: all
-Depends:slimbook-base-files, slimbook-default-skel, slimbook-console, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-gsconnect, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts, dconf-cli, libglib2.0-bin
+Depends:slimbook-base-files, slimbook-artwork-common, slimbook-default-skel, slimbook-console, slimbook-gnome-background, gnome-shell-extensions, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-gsconnect, adwaita-qt, adwaita-qt6, gnome-themes-extra, yaru-theme-icon, slimbook-ttf-fonts, dconf-cli, libglib2.0-bin
 Recommends: ulauncher
 Description: Slimbook OS 24 gnome settings
  Slimbook settings for gnome
@@ -42,7 +47,7 @@ Description: Slimbook OS 24 wallpaper
 
 Package: slimbook-plasma-settings
 Architecture: all
-Depends: slimbook-plasma-wallpapers, slimbook-ttf-fonts, slimbook-console, plasma-desktop, konsole
+Depends: slimbook-plasma-wallpapers, slimbook-artwork-common, slimbook-ttf-fonts, slimbook-console, plasma-desktop, konsole
 Description: Slimbook OS 24 Plasma Settings
  Default Plasma settings for Slimbook OS 24
 
