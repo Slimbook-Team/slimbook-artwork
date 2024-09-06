@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LayoutTemplate",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dev@slimbook.com",
+                "Name": "Slimbook"
+            }
+        ],
+        "Category": "",
+        "Description": "Default Slimbook panel based on Plasma one",
+
+        "EnabledByDefault": true,
+        "Id": "com.slimbook.default",
+        "License": "LGPLv2+",
+        "Name": "Default Slimbook Panel",
+        "Website": "https://www.slimbook.com"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}
