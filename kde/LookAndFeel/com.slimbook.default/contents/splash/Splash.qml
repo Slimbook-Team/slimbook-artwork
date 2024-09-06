@@ -17,7 +17,7 @@ Rectangle {
         id: image
         anchors.centerIn: parent
         source: "images/logo.svg"
-        sourceSize.height: Kirigami.Units.gridUnit * 10
+        sourceSize.height: Kirigami.Units.gridUnit * 2.5
         sourceSize.width: Kirigami.Units.gridUnit * 10
     }
 
