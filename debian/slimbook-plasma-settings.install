@@ -1,4 +1,5 @@
 kde/konsole/* /usr/share/konsole/
 kde/LookAndFeel/* /usr/share/plasma/look-and-feel/
+kde/Layouts/* /usr/share/plasma/layout-templates/
 kde/xdg /usr/share/slimbook-plasma-settings/
 kde/profile.d/* /etc/profile.d/

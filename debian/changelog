@@ -1,3 +1,9 @@
+slimbook-artwork (24.15.1) noble; urgency=medium
+
+  * Some fixes on plasma look and feel
+
+ -- Slimbook <dev@slimbook.es>  Fri, 06 Sep 2024 17:25:14 +0200
+
 slimbook-artwork (24.15.0) noble; urgency=medium
 
   * Updated default plasma look and feel with some slimbook branding
