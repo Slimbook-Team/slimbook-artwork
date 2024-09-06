@@ -25,7 +25,7 @@ if (panel.formFactor === "horizontal") {
 
 var kickoff = panel.addWidget("org.kde.plasma.kickoff")
 kickoff.currentConfigGroup = ["General"]
-kickoff.writeConfig("icon","/usr/share/pixmaps/slimbook_be1ofus_dark.svg")
+kickoff.writeConfig("icon","/usr/share/pixmaps/slimbook-start-here.svg")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
 panel.addWidget("org.kde.plasma.pager")
