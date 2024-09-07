@@ -1,0 +1,27 @@
+#!/bin/sh
+
+set -e
+
+THEME_FILE="/usr/share/sddm/themes/breeze/theme.conf.user"
+
+case "$1" in
+    configure)
+
+    if [ ! -f $THEME_FILE ]; then
+        echo "[General]\ntype=image\nbackground=/usr/share/wallpapers/slimbook-boou/contents/images/3840x2160.jpg" > $THEME_FILE
+    fi
+
+    ;;
+
+    abort-upgrade|abort-deconfigure|abort-remove)
+    ;;
+
+    *)
+    echo "$0 called with unknown argument \`$1'" 1>&2
+    exit 1
+    ;;
+esac
+
+#DEBHELPER#
+
+exit 0

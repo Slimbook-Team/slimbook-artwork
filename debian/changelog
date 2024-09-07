@@ -1,3 +1,9 @@
+slimbook-artwork (24.16.0) noble; urgency=medium
+
+  * Setting up sddm background at post-inst
+
+ -- Slimbook <dev@slimbook.es>  Sat, 07 Sep 2024 18:44:07 +0200
+
 slimbook-artwork (24.15.1) noble; urgency=medium
 
   * Some fixes on plasma look and feel
