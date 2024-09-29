@@ -2,44 +2,59 @@
 
 source /usr/share/slimbook-console/trueline.sh
 
-model_str=`slimbookctl info | grep model | cut -d ":" -f 2`
-family=`echo $model_str | sed -e 's/0x\(.*\)../\1/'`
+family=`slimbookctl info | grep family | cut -d ":" -f 2`
 
 case $family in
 
-    "1")
+    "executive")
         name="Slimbook Executive"
     ;;
 
-    "2")
+    "prox")
         name="Slimbook ProX"
     ;;
 
-    "4")
+    "titan")
         name="Slimbook Titan"
     ;;
 
-    "8")
+    "hero")
         name="Slimbook Hero"
     ;;
 
-    "10")
+    "essential")
         name="Slimbook Essential"
     ;;
 
-    "20")
+    "elemental")
         name="Slimbook Elemental"
     ;;
 
-    "40")
+    "excalibur")
         name="Slimbook Excalibur"
     ;;
 
-    "80")
+    "hero-s")
         name="Slimbook Hero-S"
     ;;
 
+    "zero")
+        name="Slimbook Zero"
+    ;;
+
+    "one")
+        name="Slimbook One"
+    ;;
+
+    "nas")
+        name="Slimbook NAS"
+    ;;
+
+    "unknown")
+    ;;
+
     *)
+        name=$family
     ;;
 
 esac
