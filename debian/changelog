@@ -1,3 +1,10 @@
+slimbook-artwork (24.17.0) noble; urgency=medium
+
+  * Disable dash to panel hover animation
+  * Updated bashrc welcome code
+
+ -- Slimbook <dev@slimbook.es>  Sun, 29 Sep 2024 22:56:51 +0200
+
 slimbook-artwork (24.16.0) noble; urgency=medium
 
   * Setting up sddm background at post-inst
