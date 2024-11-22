@@ -1,3 +1,11 @@
+slimbook-artwork (24.18.0) noble; urgency=medium
+
+  * Updated trueline
+  * Updated dash to panel
+  * Updated welcome message to fit new models
+
+ -- Slimbook <dev@slimbook.es>  Fri, 22 Nov 2024 11:20:36 +0100
+
 slimbook-artwork (24.17.0) noble; urgency=medium
 
   * Disable dash to panel hover animation
