@@ -49,6 +49,14 @@ case $family in
     "nas")
         name="Slimbook NAS"
     ;;
+    
+    "evo")
+        name="Slimbook Evo"
+    ;;
+    
+    "creative")
+        name="Slimbook Creative"
+    ;;
 
     "unknown")
     ;;
