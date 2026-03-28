@@ -8,18 +8,19 @@ logo='/usr/share/pixmaps/slimbook-logo.png'
 
 # Desktop settings
 [org.gnome.desktop.background:ubuntu]
-picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/slimbook-boou-dark.jpg'
+picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/slimbook-voronoi-dark.jpg'
 
 [org.gnome.desktop.screensaver:ubuntu]
-picture-uri='file:///usr/share/backgrounds/slimbook-boou-light.jpg'
+picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
 
 [org.gnome.desktop.app-folders:ubuntu]
 folder-children = ['Utility','Office']
 
 [org.gnome.shell:ubuntu]
-enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io','caffeine@patapon.info','grand-theft-focus@zalckos.github.com','quick-settings-audio-panel@rayzeq.github.io','status-area-horizontal-spacing@mathematical.coffee.gmail.com','drive-menu@gnome-shell-extensions.gcampax.github.com','clipboard-indicator@tudmotu.com']
-disabled-extensions=['ubuntu-dock@ubuntu.com']
+enabled-extensions=['ubuntu-appindicators@ubuntu.com']
+#enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io','caffeine@patapon.info','grand-theft-focus@zalckos.github.com','quick-settings-audio-panel@rayzeq.github.io','status-area-horizontal-spacing@mathematical.coffee.gmail.com','drive-menu@gnome-shell-extensions.gcampax.github.com','clipboard-indicator@tudmotu.com']
+#disabled-extensions=['ubuntu-dock@ubuntu.com']
 favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
 
 [org.gnome.desktop.interface:ubuntu]

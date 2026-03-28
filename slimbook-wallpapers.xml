@@ -3,6 +3,16 @@
 <wallpapers>
 
  <wallpaper>
+     <name>Slimbook Voronoi</name>
+     <filename>/usr/share/backgrounds/slimbook-voronoi-light.jpg</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-voronoi-dark.jpg</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
      <name>Slimbook BOOU</name>
      <filename>/usr/share/backgrounds/slimbook-boou-light.jpg</filename>
      <filename-dark>/usr/share/backgrounds/slimbook-boou-dark.jpg</filename-dark>
