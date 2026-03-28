@@ -1,3 +1,9 @@
+slimbook-artwork (26.0~alpha0) resolute; urgency=medium
+
+  * Just a basic look and feel for 26
+
+ -- Slimbook <dev@slimbook.es>  Sat, 28 Mar 2026 18:48:29 +0100
+
 slimbook-artwork (24.18.1) noble; urgency=medium
 
   * Fixed slimbookrc
