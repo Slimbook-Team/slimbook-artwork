@@ -7,14 +7,14 @@ export DH_VERBOSE=1
 	dh $@
 
 override_dh_auto_build:
-	$(MAKE) -C dash-to-panel
-	$(MAKE) -C dash-to-panel install DESTDIR=build
-	$(MAKE) -C status-area-horizontal-spacing-gnome-shell-extension
+	#$(MAKE) -C dash-to-panel
+	#$(MAKE) -C dash-to-panel install DESTDIR=build
+	#$(MAKE) -C status-area-horizontal-spacing-gnome-shell-extension
 
-	$(MAKE) -C gnome-shell-extension-clipboard-indicator compile-locales
+	#$(MAKE) -C gnome-shell-extension-clipboard-indicator compile-locales
 
-	glib-compile-schemas gnome-shell-extension-caffeine/caffeine@patapon.info/schemas
-	glib-compile-schemas quick-settings-audio-panel/schemas
+	#glib-compile-schemas gnome-shell-extension-caffeine/caffeine@patapon.info/schemas
+	#glib-compile-schemas quick-settings-audio-panel/schemas
 
-	$(MAKE) -C kde/wallpapers
+	#$(MAKE) -C kde/wallpapers
 
