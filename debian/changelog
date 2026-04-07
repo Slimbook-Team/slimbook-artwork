@@ -1,3 +1,11 @@
+slimbook-artwork (26.0~alpha5) resolute; urgency=medium
+
+  * fixed console message
+  * fixing default schema
+  * disabled terminal update-alternative (for now)
+
+ -- Slimbook <dev@slimbook.es>  Wed, 08 Apr 2026 00:15:01 +0200
+
 slimbook-artwork (26.0~alpha4) resolute; urgency=medium
 
   * Enabled dash to panel

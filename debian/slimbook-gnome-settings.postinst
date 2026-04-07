@@ -16,9 +16,9 @@ case "$1" in
         --install /usr/share/gnome-shell/gdm-theme.gresource gdm-theme.gresource \
         /usr/share/gnome-shell/gnome-shell-theme.gresource 600
 
-      update-alternatives \
-      --install /usr/bin/x-terminal-emulator x-terminal-emulator \
-      /usr/bin/gnome-terminal.wrapper 100
+      #update-alternatives \
+      #--install /usr/bin/x-terminal-emulator x-terminal-emulator \
+      #/usr/bin/gnome-terminal.wrapper 100
 
     ;;
 
