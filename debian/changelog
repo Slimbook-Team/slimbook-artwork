@@ -1,3 +1,10 @@
+slimbook-artwork (26.0~alpha4) resolute; urgency=medium
+
+  * Enabled dash to panel
+  * wip: ptyxis settings
+
+ -- Slimbook <dev@slimbook.es>  Tue, 07 Apr 2026 18:10:35 +0200
+
 slimbook-artwork (26.0~alpha3) resolute; urgency=medium
 
   * Updated gsettings keys
