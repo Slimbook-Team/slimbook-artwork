@@ -1,8 +1,8 @@
 *.gschema.override /usr/share/glib-2.0/schemas/
 dconf/* /etc/dconf/
-#dash-to-panel/build/usr/* /etc/skel/.local/
+dash-to-panel/build/usr/* /etc/skel/.local/
 #gnome-shell-extension-lockkeys/lockkeys@vaina.lt /etc/skel/.local/share/gnome-shell/extensions/
-#dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
+dash-to-panel/schemas/*.xml /usr/share/glib-2.0/schemas/
 #gnome-shell-extension-lockkeys/lockkeys@vaina.lt/schemas/*.xml /usr/share/glib-2.0/schemas/
 #gnome-shell-extension-caffeine/caffeine@patapon.info /etc/skel/.local/share/gnome-shell/extensions/
 #gnome-shell-extension-caffeine/caffeine@patapon.info/schemas/*.xml /usr/share/glib-2.0/schemas/

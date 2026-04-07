@@ -7,8 +7,8 @@ export DH_VERBOSE=1
 	dh $@
 
 override_dh_auto_build:
-	#$(MAKE) -C dash-to-panel
-	#$(MAKE) -C dash-to-panel install DESTDIR=build
+	$(MAKE) -C dash-to-panel
+	$(MAKE) -C dash-to-panel install DESTDIR=build
 	#$(MAKE) -C status-area-horizontal-spacing-gnome-shell-extension
 
 	#$(MAKE) -C gnome-shell-extension-clipboard-indicator compile-locales

@@ -1,3 +1,10 @@
+slimbook-artwork (26.0~alpha3) resolute; urgency=medium
+
+  * Updated gsettings keys
+  * Enabled dash to panel (with last release compatible with gnome 50)
+
+ -- Slimbook <dev@slimbook.es>  Tue, 07 Apr 2026 17:27:27 +0200
+
 slimbook-artwork (26.0~alpha2) resolute; urgency=medium
 
   * Just a basic look and feel for 26
