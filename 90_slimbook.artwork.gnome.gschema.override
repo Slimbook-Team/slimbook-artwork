@@ -19,10 +19,10 @@ picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
 folder-children = ['Utility','Office']
 
 [org.gnome.shell:ubuntu]
-enabled-extensions=['ubuntu-appindicators@ubuntu.com']
+enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com']
 #enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io','caffeine@patapon.info','grand-theft-focus@zalckos.github.com','quick-settings-audio-panel@rayzeq.github.io','status-area-horizontal-spacing@mathematical.coffee.gmail.com','drive-menu@gnome-shell-extensions.gcampax.github.com','clipboard-indicator@tudmotu.com']
 #disabled-extensions=['ubuntu-dock@ubuntu.com']
-favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop','org.gnome.Software.desktop']
+favorite-apps = ['org.gnome.Nautilus.desktop','firefox.desktop','org.gnome.Software.desktop']
 
 [org.gnome.desktop.interface:ubuntu]
 gtk-theme = "Yaru-blue"
@@ -58,7 +58,7 @@ highlight-colors-set = true
 highlight-foreground-color = 'rgb(46,52,64)'
 palette = ['#3B4252', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#88C0D0', '#E5E9F0', '#4C566A', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#8FBCBB', '#ECEFF4']
 
-[org.gnome.Ptyxis.Profile]
-palette = 'Nord'
+[org.gnome.Ptyxis]
+palette = 'nord'
 use-system-font = false
 font-name = 'UbuntuMono Nerd Font Mono 12'
