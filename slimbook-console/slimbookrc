@@ -68,7 +68,7 @@ case $family in
 esac
 
 if [ ! -z "$name" ]; then
-    echo -e "Welcome to \e[34mSlimbook OS 24\e[0m powered by \e[34m${name}\e[0m\n"
+    echo -e "Welcome to \e[34mSlimbook OS 26\e[0m powered by \e[34m${name}\e[0m\n"
 else
-    echo -e "Welcome to \e[34mSlimbook OS 24\e[0m\n"
+    echo -e "Welcome to \e[34mSlimbook OS 26\e[0m\n"
 fi
