@@ -1,5 +1,6 @@
 # General settings
 [org.gnome.desktop.interface]
+accent-color="blue"
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
 
@@ -56,3 +57,8 @@ highlight-background-color = 'rgb(136,192,208)'
 highlight-colors-set = true
 highlight-foreground-color = 'rgb(46,52,64)'
 palette = ['#3B4252', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#88C0D0', '#E5E9F0', '#4C566A', '#BF616A', '#A3BE8C', '#EBCB8B', '#81A1C1', '#B48EAD', '#8FBCBB', '#ECEFF4']
+
+[org.gnome.Ptyxis.Profile]
+palette = 'Nord'
+use-system-font = false
+font-name = 'UbuntuMono Nerd Font Mono 12'
