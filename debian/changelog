@@ -1,3 +1,9 @@
+slimbook-artwork (26.0~alpha7) resolute; urgency=medium
+
+  * Disabling ubuntu dock extension
+
+ -- Slimbook <dev@slimbook.es>  Thu, 09 Apr 2026 09:04:35 +0200
+
 slimbook-artwork (26.0~alpha6) resolute; urgency=medium
 
   * Various fixes
