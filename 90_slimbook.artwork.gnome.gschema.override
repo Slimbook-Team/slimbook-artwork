@@ -19,6 +19,9 @@ picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
 folder-children = ['Utility','Office']
 
 [org.gnome.shell:ubuntu]
+disabled-extensions = ['ubuntu-dock@ubuntu.com']
+
+[org.gnome.shell:ubuntu]
 enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com']
 #enabled-extensions=['ubuntu-appindicators@ubuntu.com','dash-to-panel@jderose9.github.com','lockkeys@vaina.lt','gsconnect@andyholmes.github.io','caffeine@patapon.info','grand-theft-focus@zalckos.github.com','quick-settings-audio-panel@rayzeq.github.io','status-area-horizontal-spacing@mathematical.coffee.gmail.com','drive-menu@gnome-shell-extensions.gcampax.github.com','clipboard-indicator@tudmotu.com']
 #disabled-extensions=['ubuntu-dock@ubuntu.com']
