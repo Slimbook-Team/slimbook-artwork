@@ -1,3 +1,9 @@
+slimbook-artwork (26.0~alpha8) resolute; urgency=medium
+
+  * Not forcing qt to use adwaita (for now)
+
+ -- Slimbook <dev@slimbook.es>  Fri, 10 Apr 2026 12:51:48 +0200
+
 slimbook-artwork (26.0~alpha7) resolute; urgency=medium
 
   * Disabling ubuntu dock extension
