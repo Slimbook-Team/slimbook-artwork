@@ -20,6 +20,7 @@ show-apps-icon-file = '/usr/share/pixmaps/slimbook-distributor-logo.png'
 animate-appicon-hover = false
 group-apps-underline-unfocused = false
 group-apps-use-launchers = true
+extension-version = 9999
 
 [org/gnome/shell/extensions/lockkeys]
 style = 'show-hide'
