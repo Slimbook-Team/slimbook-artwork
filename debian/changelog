@@ -1,3 +1,9 @@
+slimbook-artwork (26.1) resolute; urgency=medium
+
+  * This may hide gnome initial setup and dash to panel popping up
+
+ -- Slimbook <dev@slimbook.es>  Wed, 15 Apr 2026 14:49:18 +0200
+
 slimbook-artwork (26.0~alpha8) resolute; urgency=medium
 
   * Not forcing qt to use adwaita (for now)
