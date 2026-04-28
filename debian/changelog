@@ -1,3 +1,9 @@
+slimbook-artwork (26.2) resolute; urgency=medium
+
+  * Hidding some ugly desktops overriding them on user skel
+
+ -- Slimbook <dev@slimbook.es>  Tue, 28 Apr 2026 22:47:45 +0200
+
 slimbook-artwork (26.1) resolute; urgency=medium
 
   * This may hide gnome initial setup and dash to panel popping up
