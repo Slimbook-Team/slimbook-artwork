@@ -1,1 +1,2 @@
 skel/.config/*   /etc/skel/.config/
+skel/.local/*   /etc/skel/.local/
