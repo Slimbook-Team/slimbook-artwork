@@ -31,3 +31,6 @@ user-enabled = true
 
 [org/gnome/shell/extensions/status-area-horizontal-spacing]
 hpadding = 3
+
+[io/missioncenter/MissionCenter]
+performance-page-cpu-graph = 2
