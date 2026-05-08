@@ -3,17 +3,18 @@
 accent-color="blue"
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
+color-scheme = "prefer-dark"
 
 [org.gnome.login-screen]
 logo='/usr/share/pixmaps/slimbook-logo.png'
 
 # Desktop settings
 [org.gnome.desktop.background:ubuntu]
-picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
-picture-uri-dark='file:///usr/share/backgrounds/slimbook-voronoi-dark.jpg'
+picture-uri='file:///usr/share/backgrounds/slimbook-infinite-kernel-light.png'
+picture-uri-dark='file:///usr/share/backgrounds/slimbook-infinite-kernel-dark.png'
 
 [org.gnome.desktop.screensaver:ubuntu]
-picture-uri='file:///usr/share/backgrounds/slimbook-voronoi-light.jpg'
+picture-uri='file:///usr/share/backgrounds/slimbook-infinite-kernel-dark.png'
 
 [org.gnome.desktop.app-folders:ubuntu]
 folder-children = ['Utility','Office']
