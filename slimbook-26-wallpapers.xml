@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+ <wallpaper>
+     <name>Slimbook Ancient Root</name>
+     <filename>/usr/share/backgrounds/slimbook-ancient-root-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-ancient-root-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Core Loop</name>
+     <filename>/usr/share/backgrounds/slimbook-core-loop-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-core-loop-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Infinite Kernel</name>
+     <filename>/usr/share/backgrounds/slimbook-infinite-kernel-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-infinite-kernel-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Mosaic Tessella</name>
+     <filename>/usr/share/backgrounds/slimbook-mosaic-tessella-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-mosaic-tessella-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Polar Node</name>
+     <filename>/usr/share/backgrounds/slimbook-polar-node-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-polar-node-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Source Plains</name>
+     <filename>/usr/share/backgrounds/slimbook-source-plains-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-source-plains-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <name>Slimbook Stream Horizon</name>
+     <filename>/usr/share/backgrounds/slimbook-stream-horizon-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/slimbook-stream-horizon-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
