@@ -1,3 +1,11 @@
+slimbook-artwork (26.6) resolute; urgency=medium
+
+  * Added fresh new slimbook 26 wallpapers
+  * 24 wallpapers will keep on original binary-package
+  * Moved look and feel to dark scheme
+
+ -- Slimbook <dev@slimbook.es>  Fri, 08 May 2026 23:53:20 +0200
+
 slimbook-artwork (26.4) resolute; urgency=medium
 
   * Added horizontal fix plugin
