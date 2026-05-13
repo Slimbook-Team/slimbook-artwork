@@ -3,6 +3,11 @@ binding = '<Control>space'
 command = 'ulauncher-toggle'
 name = 'ulauncher'
 
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding = '<Shift><Meta>F23'
+command = 'slimbook-ai-client'
+name = 'Slimbook AI'
+
 [org/gnome/desktop/app-folders/folders/Utility]
 categories=['Utility']
 name = 'Accessories'
