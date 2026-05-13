@@ -36,7 +36,7 @@ accel-profile = 'flat'
 accel-profile = 'flat'
 
 [org.gnome.settings-daemon.plugins.media-keys:ubuntu]
-custom-keybindings = ['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+custom-keybindings = ['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/','/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
 
 [org.gnome.Terminal.Legacy.Settings:ubuntu]
 theme-variant = 'system'
