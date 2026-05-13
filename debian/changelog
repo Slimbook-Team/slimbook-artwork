@@ -1,3 +1,9 @@
+slimbook-artwork (26.7) resolute; urgency=medium
+
+  * Added a default hotkey for slimbook-ai
+
+ -- Slimbook <dev@slimbook.es>  Wed, 13 May 2026 13:20:53 +0200
+
 slimbook-artwork (26.6) resolute; urgency=medium
 
   * Added fresh new slimbook 26 wallpapers
