@@ -4,7 +4,7 @@ command = 'ulauncher-toggle'
 name = 'ulauncher'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
-binding = '<Shift><Meta>F23'
+binding = '<Shift><Super>TouchpadOff'
 command = 'slimbook-ai-client'
 name = 'Slimbook AI'
 
