@@ -1,3 +1,10 @@
+slimbook-artwork (26.8.0) resolute; urgency=medium
+
+  * Added clipboard copy&paste with middle button
+  * Added status area extension
+
+ -- Slimbook <dev@slimbook.es>  Sun, 16 Aug 2026 20:20:48 +0200
+
 slimbook-artwork (26.7.1) resolute; urgency=medium
 
   * Fixed ai shortcut
