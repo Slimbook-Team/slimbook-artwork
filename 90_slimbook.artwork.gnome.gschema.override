@@ -28,6 +28,7 @@ favorite-apps = ['org.gnome.Nautilus.desktop','org.gnome.Ptyxis.desktop','firefo
 [org.gnome.desktop.interface:ubuntu]
 gtk-theme = "Yaru-blue"
 icon-theme = "Yaru-blue"
+gtk-enable-primary-paste = true
 
 [org.gnome.desktop.peripherals.touchpad:ubuntu]
 accel-profile = 'flat'
