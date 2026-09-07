@@ -1,3 +1,9 @@
+slimbook-artwork (26.8.1) resolute; urgency=medium
+
+  * Compile status area glib schemas
+
+ -- Slimbook <dev@slimbook.es>  Mon, 07 Sep 2026 12:06:53 +0200
+
 slimbook-artwork (26.8.0) resolute; urgency=medium
 
   * Added clipboard copy&paste with middle button
